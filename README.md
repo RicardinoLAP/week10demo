@@ -9,8 +9,8 @@ My breakfast this morning:
 ## Linkedin
 [Linkedin](https://www.linkedin.com/in/ricardino-pereira-02659a1ba/)
 
-##Octocat
+## Octocat
 ![OctoDino](https://github.com/RicardinoLAP/week10demo/blob/main/octocat.png)
 
-##Favorite Games
+## Favorite Games
 I don't have a favorite sorry!
